@@ -1,0 +1,4 @@
+venv
+nba.sqlite
+storage
+.env
