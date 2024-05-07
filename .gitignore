@@ -1,4 +1,7 @@
 venv
-nba.sqlite
+*.sqlite
+db
 storage
 .env
+test.ipynb
+table_info/*
